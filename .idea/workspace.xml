@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2820a802-3603-47f1-98e6-71c3dadddc50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Tasmota.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1kr1zN2KsboWESX8LL9iyLEK0Aj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug..phpstorm.meta.php">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name=".phpstorm.meta.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Tasmota/phpunit.phar/.phpstorm.meta.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tasmota" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name=".gitpod.Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value=".gitpod.Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug..phpstorm.meta.php" />
+        <item itemvalue="Docker..gitpod.Dockerfile" />
+        <item itemvalue="PHPUnit.Tasmota" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2820a802-3603-47f1-98e6-71c3dadddc50" name="Default Changelist" comment="" />
+      <created>1606444157643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606444157643</updated>
+      <workItem from="1606444158806" duration="158000" />
+      <workItem from="1606444434706" duration="858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="484" y="231" key="#CLI_Interpreters" timestamp="1606444972240">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="484" y="231" key="#CLI_Interpreters/0.25.1792.1095@0.25.1792.1095" timestamp="1606444972240" />
+    <state x="613" y="400" key="#Notifications" timestamp="1606445012949">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="613" y="400" key="#Notifications/0.25.1792.1095@0.25.1792.1095" timestamp="1606445012949" />
+    <state x="570" y="219" key="#PHP" timestamp="1606444503678">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="570" y="219" key="#PHP/0.25.1792.1095@0.25.1792.1095" timestamp="1606444503678" />
+    <state x="496" y="217" key="#Plugins" timestamp="1606445063695">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="496" y="217" key="#Plugins/0.25.1792.1095@0.25.1792.1095" timestamp="1606445063695" />
+    <state x="695" y="471" key="#Push_Image" timestamp="1606444255335">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="695" y="471" key="#Push_Image/0.25.1792.1095@0.25.1792.1095" timestamp="1606444255335" />
+    <state x="487" y="221" key="#SSH_Configurations" timestamp="1606444845900">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="487" y="221" key="#SSH_Configurations/0.25.1792.1095@0.25.1792.1095" timestamp="1606444845900" />
+    <state x="484" y="231" key="#Test_Frameworks" timestamp="1606444974578">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="484" y="231" key="#Test_Frameworks/0.25.1792.1095@0.25.1792.1095" timestamp="1606444974578" />
+    <state x="360" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606444451818">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="360" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606444451818" />
+    <state x="584" y="312" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606444273327">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="584" y="312" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606444273327" />
+    <state width="1750" height="301" key="GridCell.Tab.0.bottom" timestamp="1606445242994">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="301" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1606445242994" />
+    <state width="1750" height="301" key="GridCell.Tab.0.center" timestamp="1606445242993">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="301" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1606445242993" />
+    <state width="1750" height="301" key="GridCell.Tab.0.left" timestamp="1606445242993">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="301" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1606445242993" />
+    <state width="1750" height="301" key="GridCell.Tab.0.right" timestamp="1606445242994">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1750" height="301" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1606445242994" />
+    <state x="0" y="25" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog" timestamp="1606444861047">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="0" y="25" key="com.jetbrains.php.config.phpInfo.PhpInfo.PhpInfoDialog/0.25.1792.1095@0.25.1792.1095" timestamp="1606444861047" />
+  </component>
+</project>
